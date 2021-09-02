@@ -1,0 +1,31 @@
+{
+    "batchInfo": {
+        "batchName": "test",
+        "reason": "test",
+        "prefix": "GUYI",
+        "quantity": 2,
+        "gcLength": 10
+    },
+    "batchNumber": "WCWENPNXML",
+    "reason": null,
+    "createdOn": "08/24/2021",
+    "expirationDate": "2021-09-25T05:00:00.000Z",
+    "fileFormat": null,
+    "giftCodeId": null,
+    "issueAmount": 12,
+    "issueDate": "2021-08-24T05:00:00.000Z",
+    "meta": null,
+    "paidAmount": null,
+    "redemptionDetails": null,
+    "reinstateDate": null,
+    "siteId": "FTD",
+    "source": null,
+    "status": "Completed",
+    "type": "SPC",
+    "updatedOn": null,
+    "promotionId": null,
+    "liabilityAmount": null,
+    "multiUse": false,
+    "pcValue": "per_all",
+    "downgradablePcValue": null
+}
