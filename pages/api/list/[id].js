@@ -2,7 +2,7 @@ import listItem from '../../mock-data/list-by-id.json'
 
 
 export default function personHandler({ query: { id } }, res) {
-  console.log("page by id " + id);
+  console.log("Req received for '/list/{id}' by id " + id);
 
 
   if (id != 404) {

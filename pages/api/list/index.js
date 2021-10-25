@@ -19,13 +19,13 @@ export default async function handler(req, res) {
     // Rest of the API logic
     
     if (req.method === 'POST') {
-        console.log("Request type is POST");
+        console.log("Request Received - Method is POST and Req Body is ");
         console.log(req.body);
 
         res.json(req.body)
 
     } else if (req.method === 'GET') {
-        console.log("Request type is GET");
+        console.log(" Request Recevied with method GET ");
         
         
         res.json(listData);
