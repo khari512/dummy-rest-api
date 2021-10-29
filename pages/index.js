@@ -26,7 +26,7 @@ export default function Home() {
             <h2>REST Call Details</h2>
             <p>GET `/list`</p>
             <p>POST `/list`. [returns response as what ever you pass in post body.</p>
-            <p>GET /list/{id}</p>
+            <p>GET /list/:id</p>
             <p>GET /list/404. To get the behaviour of 404 request not found error.</p>
 
 
