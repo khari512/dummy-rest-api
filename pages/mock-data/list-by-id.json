@@ -22,7 +22,11 @@
         "redemptionDetails": null,
         "reinstateDate": null,
         "siteId": "FTD",
-        "source": null,
+        "source": [
+            {
+                "refCode": "552,26677"
+            }
+        ],
         "status": "Completed",
         "type": "DPC",
         "updatedOn": null,
