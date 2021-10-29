@@ -1,0 +1,304 @@
+[
+    {
+        "id": "ftd_552",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "Main Site",
+        "markcode": "552",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-01-15T03:20:45.675Z",
+            "modifiedDate": "2021-09-16T04:37:35.257Z",
+            "lastModifiedBy": "bo-ktammal@ftdi.com",
+            "status": "non-cached"
+        },
+        "notes": "Live",
+        "status": "active",
+        "tranxTime": 1631080245710,
+        "_timestamp": 1631767055257
+    },
+    {
+        "id": "ftd_36011",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "vanityURL": "bloomthat",
+        "description": "Bloomthat",
+        "markcode": "36011",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-05-16T19:20:08.267Z",
+            "modifiedDate": "2021-09-08T05:50:48.289Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "moved 5/16/19",
+        "status": "active",
+        "tranxTime": 1631080247354,
+        "_timestamp": 1631080248290
+    },
+    {
+        "id": "ftd_26677",
+        "siteId": "ftd",
+        "orgGroups": [
+            {
+                "orgGroup": "Partner"
+            }
+        ],
+        "orgId": "USAA",
+        "catalogId": "26677",
+        "vanityURL": "candle",
+        "description": "USAA",
+        "markcode": "26677",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-file_upload",
+            "createdDate": "2019-03-11T20:52:22.739Z",
+            "modifiedDate": "2021-09-08T05:50:48.288Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "moved 3/11/2019",
+        "status": "active",
+        "tranxTime": 1631080247326,
+        "_timestamp": 1631080248288
+    },
+    {
+        "id": "ftd_16700",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "NEW EMPLOYEE SITE",
+        "markcode": "16700",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-01-15T03:20:45.474Z",
+            "modifiedDate": "2021-09-08T05:50:48.288Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "moved 12/6/2018",
+        "status": "active",
+        "tranxTime": 1631080247165,
+        "_timestamp": 1631080248288
+    },
+    {
+        "id": "ftd_35901",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "New Site DTS - BE On Exit",
+        "markcode": "35901",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-01-15T03:20:46.482Z",
+            "modifiedDate": "2021-09-08T05:50:48.086Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "Live",
+        "status": "active",
+        "tranxTime": 1631080247035,
+        "_timestamp": 1631080248086
+    },
+    {
+        "id": "ftd_35902",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "New Site SEMBrand - BE On Exit",
+        "markcode": "35902",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-01-15T03:20:46.482Z",
+            "modifiedDate": "2021-09-08T05:50:47.884Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "Live",
+        "status": "active",
+        "tranxTime": 1631080246727,
+        "_timestamp": 1631080247884
+    },
+    {
+        "id": "ftd_35900",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "New Site SEO - BE On Exit",
+        "markcode": "35900",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-01-15T03:20:46.482Z",
+            "modifiedDate": "2021-09-08T05:50:47.584Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "Live",
+        "status": "active",
+        "tranxTime": 1631080246435,
+        "_timestamp": 1631080247584
+    },
+    {
+        "id": "ftd_20099",
+        "siteId": "ftd",
+        "orgId": "Main Site",
+        "trackingGroups": [
+            {
+                "displayGold": "true"
+            }
+        ],
+        "catalogId": "11504",
+        "description": "Main Site 10% Off Sitewide Savings",
+        "markcode": "20099",
+        "markcodeValueType": "EQUALS",
+        "isRedirectRequired": false,
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "source": "one_central_upload",
+        "meta": {
+            "createdBy": "backend-catalog_ingestion",
+            "createdDate": "2019-02-05T19:47:55.527Z",
+            "modifiedDate": "2021-09-08T05:50:47.360Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "notes": "moved 2/1/2019",
+        "status": "active",
+        "tranxTime": 1631080247298,
+        "_timestamp": 1631080247360
+    },
+    {
+        "id": "ftd_4000080",
+        "siteId": "ftd",
+        "catalogId": "4000040",
+        "vanityURL": "gannett11128",
+        "description": "The Runge Mortuary and Crematory",
+        "markcode": "4000080",
+        "markcodeValueType": "EQUALS",
+        "defaultMarkCode": "89898",
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "markcodeTestValues": [],
+        "source": "sympathy_portal",
+        "meta": {
+            "createdBy": "backend-partner_ingestion",
+            "createdDate": "2021-06-30T00:00:26.565Z",
+            "modifiedDate": "2021-09-08T05:50:47.280Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "status": "active",
+        "tranxTime": 1631080246208,
+        "_timestamp": 1631080247281
+    },
+    {
+        "id": "ftd_4000081",
+        "siteId": "ftd",
+        "catalogId": "4000040",
+        "vanityURL": "gannett11129",
+        "description": "Swan-Law Funeral Dirs",
+        "markcode": "4000081",
+        "markcodeValueType": "EQUALS",
+        "defaultMarkCode": "89898",
+        "trafficTypes": [
+            "CALYX"
+        ],
+        "priority": 1,
+        "markcodeTestValues": [],
+        "source": "sympathy_portal",
+        "meta": {
+            "createdBy": "backend-partner_ingestion",
+            "createdDate": "2021-06-30T00:00:26.636Z",
+            "modifiedDate": "2021-09-08T05:50:47.097Z",
+            "lastModifiedBy": "siteconfig-ingestion-catalog_ingestion",
+            "status": "non-cached"
+        },
+        "status": "active",
+        "tranxTime": 1631080246176,
+        "_timestamp": 1631080247097
+    }
+]

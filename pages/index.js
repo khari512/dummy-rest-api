@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Dummy REST API with custom responses</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,8 +23,13 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>REST Call Details</h2>
+            <p>GET `/list`</p>
+            <p>POST `/list`. [returns response as what ever you pass in post body.</p>
+            <p>GET /list/{id}</p>
+            <p>GET /list/404. To get the behaviour of 404 request not found error.</p>
+
+
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
