@@ -1,0 +1,88 @@
+[
+    {
+        "createDetails": {
+            "batchInfo": {
+                "batchDescription": "FTD 5 for 10",
+                "batchName": "GCH20134999453",
+                "reason": "Vday promotion",
+                "prefix": "GC",
+                "quantity": 5,
+                "excludeChars": "0,o,O,l,i,I",
+                "gcLength": 16
+            },
+            "batchNumber": "JJJZISRXD1",
+            "reason": "Vday promotion",
+            "createdOn": "07/16/2021",
+            "expirationDate": "2021-10-16T05:00:00.000Z",
+            "fileFormat": null,
+            "giftCodeId": null,
+            "issueAmount": 10,
+            "issueDate": "2021-07-16T05:00:00.000Z",
+            "meta": null,
+            "paidAmount": null,
+            "redemptionDetails": null,
+            "reinstateDate": null,
+            "siteId": "FTD",
+            "source": [
+                {
+                    "refCode": "552,26677"
+                }
+            ],
+            "status": "Completed",
+            "type": "DPC",
+            "updatedOn": null,
+            "promotionId": null,
+            "liabilityAmount": 5,
+            "multiUse": false,
+            "pcValue": null,
+            "downgradablePcValue": null
+        },
+        "recipientInfo": [],
+        "createdBy": "hkolli",
+        "updatedBy": "hkolli",
+        "createdDate": "2021-07-16T16:25:48.780Z",
+        "lastModifiedDate": null
+    },
+    {
+        "createDetails": {
+            "batchInfo": {
+                "batchName": "Dec 25th 2021",
+                "reason": "Christmas Promotions",
+                "prefix": "FTDCHRIST",
+                "quantity": 3,
+                "gcLength": 10
+            },
+            "batchNumber": "CTQLI1UFQC",
+            "reason": "Christmas Promotions",
+            "createdOn": "10/29/2021",
+            "expirationDate": "2021-10-29T09:00:18.363Z",
+            "fileFormat": null,
+            "giftCodeId": null,
+            "issueAmount": 4,
+            "issueDate": "2021-10-29T09:00:15.935Z",
+            "meta": null,
+            "paidAmount": null,
+            "redemptionDetails": null,
+            "reinstateDate": null,
+            "siteId": "FTD",
+            "source": [
+                {
+                    "refCode": "552,26677"
+                }
+            ],
+            "status": "Completed",
+            "type": "GC",
+            "updatedOn": null,
+            "promotionId": null,
+            "liabilityAmount": null,
+            "multiUse": false,
+            "pcValue": null,
+            "downgradablePcValue": null
+        },
+        "recipientInfo": [],
+        "createdBy": "hkolli",
+        "updatedBy": "hkolli",
+        "createdDate": "2021-10-29T09:56:29.115Z",
+        "lastModifiedDate": null
+    }
+]

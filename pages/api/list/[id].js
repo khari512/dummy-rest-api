@@ -1,4 +1,5 @@
-import listItem from '../../mock-data/list-by-id.json'
+import listItem from '../../mock-data/list-by-id.json';
+import listItems from '../../mock-data/list-details.json';
 
 
 export default function personHandler({ query: { id } }, res) {
@@ -7,11 +8,19 @@ export default function personHandler({ query: { id } }, res) {
 
   if (id != 404) {
 
-    if (listItem) {
-      listItem.id = id;
+    const filteredItems = listItems.filter( item => item.createDetails.batchNumber == id  );
+    let matchedItem = { };
+
+    if(filteredItems.length > 0){
+      matchedItem = filteredItems[0];
+   }
+    else if (listItem) {
+      matchedItem = listItem;
     }
 
-    res.status(200).json(listItem);
+    matchedItem.id = id;
+
+    res.status(200).json(matchedItem);
 
   } else {
 
